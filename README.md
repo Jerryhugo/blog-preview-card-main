@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [Add live site URL here](https://preview-sage.netlify.app/)
+- Live Site URL: [Live site](https://preview-sage.netlify.app/)
 
 ## My process
 
